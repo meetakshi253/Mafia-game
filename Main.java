@@ -1,7 +1,3 @@
-/**Meetakshi Setiya, 2019253
- * Section A, CSE
- * AP Assignment 3
- */
 
 import java.util.Scanner;
 
