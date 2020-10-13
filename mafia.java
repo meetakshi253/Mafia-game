@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class mafia extends player //implements Comparator<mafia>
+public class mafia extends player
 {
     private static ArrayList<mafia> mafia_list = new ArrayList<>();
     static mafia_Comparator maf = new mafia_Comparator();
